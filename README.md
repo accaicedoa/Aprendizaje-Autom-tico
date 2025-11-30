@@ -1,2 +1,24 @@
-# Aprendizaje-Autom-tico
-Repositorio de entregas de tareas / proyectos universitarios de la materia de "Aprendizaje Automático" de la carrera de Ciencias de Datos en la PUCE (Quinto Semestre)
+
+
+<h1 align="center"> Hola, soy Alanis</h1>
+
+<p align="center">
+  Apasionada por la Ciencia de Datos, la IA, los dashboards y la investigación académica.
+</p>
+
+---
+
+###  Sobre mí
+-  Estudiante de Ciencia de Datos – PUCE  (Quinto Semestre) 
+-  Construyendo el ecosistema Infinia DataHub  
+-  Me encanta el ecodiseño y los proyectos sostenibles  
+
+---
+
+###  Tecnologías
+**Lenguajes:** R, Python, SQL, JavaScript  
+**Stack web:** React, Node.js, Express, PostgreSQL  
+**Data:** RStudio, PowerBI, Pandas, NumPy  
+**DevOps:** Docker, AWS (S3, EC2, RDS)
+
+---
