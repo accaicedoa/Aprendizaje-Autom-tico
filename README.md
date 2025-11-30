@@ -10,8 +10,6 @@
 
 ###  Sobre mí
 -  Estudiante de Ciencia de Datos – PUCE  (Quinto Semestre) 
--  Construyendo el ecosistema Infinia DataHub  
--  Me encanta el ecodiseño y los proyectos sostenibles  
 
 ---
 
